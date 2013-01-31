@@ -1,7 +1,7 @@
 IPA-Distribution
 ================
 
-IPA-Distribution allows extremely easy distribution of pre-signed ipa files to iDevices. IPA-Distribution generates all necessary files for the installation. *You only have to provide a properly signed ipa.*
+IPA-Distribution allows extremely easy distribution of pre-signed ipa files to iDevices. IPA-Distribution generates all necessary files for the installation. **You only have to provide a properly signed ipa, plist is generated for you.**
 
 The main focus is enterprise-signed apps, since they don't require provisioning for each device they will be installed on. This way, if you need to deploy an app to many devices, you can build the app once, sign it with an enterprise certificate, and distribute it via one simple link, no signup, no registration, no frills.
 
